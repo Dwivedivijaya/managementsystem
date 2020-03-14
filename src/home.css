@@ -1,0 +1,103 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.topheader{
+    background-color: #e61173;
+    padding: 12px;
+}
+.fristheading{
+    float: left;
+    font-family: 'Satisfy' ;
+   }
+
+.navabar{
+    border: 1px solid #eccaca;
+}
+.nav-link{ 
+    color: black;
+}
+.dropicon i{
+    padding: 3px;
+}  
+.about h3{
+    font-weight: 700;
+	padding: 14px;
+	color: #e61173;
+    font-size: 32px;
+    font-family: 'Anton', sans-serif;
+}
+.about p{
+    border: 1px solid #e61173;
+	padding: 14px;
+    text-align: justify;
+   font-family: lora!important;
+   font-size: 20px;
+}
+
+.card a{
+    color: #e61173;
+    font-size: 20px;
+}
+.localities{
+    position: relative;
+   
+  }
+  .h5{
+      text-align: center;
+  }
+  .localitiespara{
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  .container:hover .localitiespara {
+    opacity: 1;
+  }
+.footer-form {
+   background-color:#e61173;
+    
+}
+.formheading{
+    padding-right: 340px;
+}
+.forminput input{
+    width: 44%;
+	padding: 7px;
+	border: 1px solid;
+}
+.aunchartag img{
+    padding:4px;
+    border-radius: 50%;
+}
+
+.ancharfoopter{
+    padding-left:168px;
+}
+.ancharfoopter a{
+    color:#e61173;
+}
+.footericon{
+    color:black;
+    text-align: center;
+    
+}
+.footericon a{
+    padding-right: 4px;
+}
+.footer h5{
+    text-align: center;
+}
+.footerchild{
+    background-color: gainsboro;
+    text-align: center;
+}
